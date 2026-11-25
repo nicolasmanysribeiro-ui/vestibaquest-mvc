@@ -6,6 +6,14 @@ Aplicação web orientada a objetos em **PHP** que organiza **simulados de vesti
 
 Uma universidade, como a UEPG, possui vários simulados de provas antigas. Cada simulado pertence a exatamente uma universidade por meio da chave estrangeira `simulado.universidade_id`.
 
+## 🎬 Vídeo de apresentação
+
+[![Assistir no YouTube](https://img.youtube.com/vi/6oaC9dx35qs/maxresdefault.jpg)](https://youtu.be/6oaC9dx35qs)
+
+**Assista no YouTube: https://youtu.be/6oaC9dx35qs**
+
+Uma cópia do vídeo também está em [`docs/video/`](docs/video/VestibaQuest_SharkTank_MVC_DAO.mp4).
+
 ![Demonstração](docs/demo.gif)
 
 ## Telas
@@ -22,7 +30,7 @@ Uma universidade, como a UEPG, possui vários simulados de provas antigas. Cada 
 |---|---|
 | ![Formulário](docs/screenshots/05-form-simulado.png) | ![Bloqueio](docs/screenshots/06-exclusao-bloqueada.png) |
 
-O vídeo de apresentação está em [`docs/video/VestibaQuest_SharkTank_MVC_DAO.mp4`](docs/video/VestibaQuest_SharkTank_MVC_DAO.mp4).
+
 
 ## Integrante
 
