@@ -161,7 +161,7 @@ Este trabalho foi feito com apoio do **Claude**, assistente de IA da Anthropic, 
 - Criação das telas em PHP e do CSS, seguindo o visual de caderno do VestibaQuest
 - Script SQL com dados de exemplo
 - Testes automatizados do CRUD durante o desenvolvimento, prints, GIF e este README
-- Roteiro, narração com vozes sintéticas Kokoro e montagem do vídeo no formato Shark Tank
+- Roteiro do vídeo, personagens em cartoon com boca sincronizada à voz e montagem no formato Shark Tank
 
 **O que é do aluno:**
 - A ideia e o problema do VestibaQuest, que é a startup do projeto integrador
