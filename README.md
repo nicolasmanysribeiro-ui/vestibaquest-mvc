@@ -8,7 +8,7 @@ Uma universidade, como a UEPG, possui vários simulados de provas antigas. Cada 
 
 ## 🎬 Vídeo de apresentação
 
-[![Assistir no YouTube](https://img.youtube.com/vi/6oaC9dx35qs/maxresdefault.jpg)](https://youtu.be/6oaC9dx35qs)
+[![Assistir no YouTube](https://img.youtube.com/vi/6oaC9dx35qs/hqdefault.jpg)](https://youtu.be/6oaC9dx35qs)
 
 **Assista no YouTube: https://youtu.be/6oaC9dx35qs**
 
