@@ -166,4 +166,5 @@ Este trabalho foi feito com apoio do **Claude**, assistente de IA da Anthropic, 
 **O que é do aluno:**
 - A ideia e o problema do VestibaQuest, que é a startup do projeto integrador
 - A decisão de usar o VestibaQuest como tema, o escopo mínimo do trabalho, a linguagem, o visual e o formato do vídeo
+- A escolha das vozes dos personagens e a geração das falas na ElevenLabs
 - A revisão do código, a execução no XAMPP e a entrega
